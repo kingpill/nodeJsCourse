@@ -3,9 +3,9 @@ Colt Steele Web Developer Bootcamp (Udemy) Final Project, completed Janurary 202
 
 CRUD Application using:
 
-NodeJs
-Express JS
-MongoDB
-HTML
-CSS
+NodeJs,
+ExpressJS,
+MongoDB,
+HTML,
+CSS,
 Bootstrap
