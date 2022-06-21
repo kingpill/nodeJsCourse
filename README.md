@@ -1,5 +1,5 @@
 # nodeJsCourse
-Colt Steele Web Developer Bootcamp (Udemy) Final Project, completed Janurary 2022. 
+Colt Steele Web Developer Bootcamp (Udemy) Final Project, completed August 2021. 
 
 CRUD Application using:
 
